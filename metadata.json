@@ -1,0 +1,6 @@
+{
+  "name": "HumanizeAI Text Rewriter-working",
+  "description": "A tool to rewrite AI-generated text, making it sound more human-like by adjusting vocabulary, sentence structure, and style using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
